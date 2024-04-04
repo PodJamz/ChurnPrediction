@@ -1,0 +1,36 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "17937000000033012",
+      "name": "ChurnPrediction",
+      "domain": {
+        "id": "10075205787",
+        "name": "churnprediction-814842417.development"
+      },
+      "timezone": "GMT",
+      "env": [
+        {
+          "idx": 1,
+          "id": "814842417",
+          "name": "Development",
+          "type": 3
+        },
+        {
+          "idx": 2,
+          "id": "10076160167",
+          "name": "Production",
+          "type": 1
+        }
+      ]
+    }
+  ]
+}
